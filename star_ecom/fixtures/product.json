@@ -1,0 +1,37 @@
+[
+ {
+  "currency": "USD",
+  "description": "* Solimo presents this set of five lightweight notebooks. These versatile books are suitable for use in the classroom or office, meeting a range of daily needs.\n* Each notebook contains 100 ruled pages of 70 gsm.\n* The paper is smooth and easy to write on using any writing instrument, including fountain pens, without ink penetration.\n* The cover is made from plastic.\n* The books are spiral-bound, which allow you to open them flat on any surface.\n* These aesthetically pleasing notebooks come in vibrant colours.\n* Dimensions: A5 size; No. of pages: 100\n* Package contents: Pack of 5 notebooks",
+  "docstatus": 0,
+  "doctype": "Product",
+  "images": [],
+  "modified": "2024-06-19 11:32:07.148248",
+  "name": "Amazon Brand - Solimo Notebooks, Spiral-Bound, Lightweight",
+  "preview_image": "https://m.media-amazon.com/images/I/912+mfE2XBL._SL1500_.jpg",
+  "price": 3.59
+ },
+ {
+  "currency": "INR",
+  "description": "## This should be an h2\n\n* 12-pack of 50-sheet note pads\n* ideal for everyday use at home, school or office\n* Wide ruled line spacing for larger handwriting and easier reading and transcribing\n* Sturdy chipboard backing for added writing pad support\n* Easy Tear off top ensures easy removal of sheets\n* Title space for organizing notes\n* Product Dimensions: 8x5 inches (WxL, including binding)",
+  "docstatus": 0,
+  "doctype": "Product",
+  "images": [
+   {
+    "image_url": "https://m.media-amazon.com/images/I/51wm8IVPL0L._SL1100_.jpg",
+    "parent": "Amazon Basics Wide Ruled Lined Writing Note Pad, White - Pack of 12",
+    "parentfield": "images",
+    "parenttype": "Product"
+   },
+   {
+    "image_url": "https://m.media-amazon.com/images/I/61RCbQeLO7L._SL1100_.jpg",
+    "parent": "Amazon Basics Wide Ruled Lined Writing Note Pad, White - Pack of 12",
+    "parentfield": "images",
+    "parenttype": "Product"
+   }
+  ],
+  "modified": "2024-06-19 13:49:34.866872",
+  "name": "Amazon Basics Wide Ruled Lined Writing Note Pad, White - Pack of 12",
+  "preview_image": "https://m.media-amazon.com/images/I/41aVSilf+jL._MCnd_AC_.jpg",
+  "price": 399.0
+ }
+]
